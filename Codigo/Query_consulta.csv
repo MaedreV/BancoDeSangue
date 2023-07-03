@@ -1,0 +1,7 @@
+ID_do_doador,nome,tipo_sanguineo,idade,genero,data_de_registro,cidade,estado,pais,nome_do_hospital
+1,Raul,A+,19,Masculino,2022-01-01,Recife,Pernambuco,Brasil,Hospital Português
+2,Ingrid,B-,18,Feminino,2022-02-02,Recife,Pernambuco,Brasil,Santa Joana
+3,Samuel,O+,31,Masculino,2022-03-03,Recife,Pernambuco,Brasil,Santa Joana
+4,Melissa,A-,26,Feminino,2023-06-07,São Paulo,São Paulo,Brasil,Hospital São Lucas
+5,Alfredo,O-,29,Masculino,2023-08-11,São Paulo,São paulo,Brasil,Hospital Albert Einstein
+6,Luisa,B+,29,Feminino,2023-08-11,São Paulo,São paulo,Brasil,Hospital São Lucas
